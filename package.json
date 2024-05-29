@@ -1,11 +1,8 @@
 {
   "name": "is-hono",
   "version": "0.0.0-rc",
-  "description": "Checks if a given request or response is from Hono.",
+  "description": "[WIP] Checks if a given request or response is from Hono.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/6km/is-hono.git"
@@ -19,7 +16,7 @@
     "request",
     "response"
   ],
-  "author": "Mohammed Taha",
+  "author": "Mohammed Taha (https://github.com/6km)",
   "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/6km/is-hono/issues"
